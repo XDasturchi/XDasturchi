@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
 
 
-Developer: pyhton, vue.js, php, mysql, javascript
+Developer: pyhton, vue.js, php, mysql, javascript, html,css
 
 <!---
 XDasturchi/XDasturchi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
